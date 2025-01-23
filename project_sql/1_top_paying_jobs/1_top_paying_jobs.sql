@@ -1,4 +1,4 @@
-/* Question: What are the top paying jobs as a Data Analyst
+/* Question: What are the top paying jobs as a Data Analyst (using Luke Barousse data)
 Top 10 paying jobs.
 Only jobs with mentioned salaries and that are remotely.
 */
