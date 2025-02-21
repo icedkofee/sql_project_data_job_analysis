@@ -1,5 +1,5 @@
 /*
-Question : What are the top paying skills for Data Analysts? 
+Question : What are the top paying skills for Data Analysts(remote only)? 
 We'll elaborate on previous data from the top paying jobs for Data Analysts.
 */
 WITH  top_paying_jobs AS
