@@ -1,4 +1,4 @@
-/* Optimal skill for data analysts */
+/* Optimal skill for data analysts and data scientist */
 
 WITH demand AS (SELECT  
 COUNT (skills_dim.skills) as skill_demand,
@@ -36,4 +36,3 @@ salary.AVG_salary_per_skill
 FROM demand
 INNER JOIN salary ON demand.skill_id = salary.skill_id
 ORDER BY skill_demand DESC , AVG_salary_per_skill DESC 
-limit 10;
